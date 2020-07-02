@@ -18,4 +18,4 @@ class flat extends Component {
   }
 }
 
-export default flat;
+export default Flat;
